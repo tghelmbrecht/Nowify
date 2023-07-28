@@ -8,7 +8,7 @@
   background-color: var(--colour-background-now-playing);
   color: var(--color-text-primary);
   display: flex;
-  flex-flow: column nowrap;
+  flex-flow: column wrap;
   height: 100%;
   padding: var(--spacing-l);
   width: 100%;
